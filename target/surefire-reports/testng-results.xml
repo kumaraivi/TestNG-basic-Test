@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="35377" started-at="2021-12-31T09:52:09 IST" finished-at="2021-12-31T09:52:44 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="35377" started-at="2021-12-31T09:52:09 IST" finished-at="2021-12-31T09:52:44 IST">
+      <class name="com.banking.app.test.TestClass">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.banking.app.test.TestClass@3159c4b8]" name="firstTest" duration-ms="35307" started-at="2021-12-31T09:52:09 IST" finished-at="2021-12-31T09:52:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- com.banking.app.test.TestClass -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
